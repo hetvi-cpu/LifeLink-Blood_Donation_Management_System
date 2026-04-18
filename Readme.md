@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/assets/logo.png" alt="LifeLink Logo" width="100" style="border-radius:16px"/>
+<img src="LIFELINK_FRONTEND/src/assets/logo.png" alt="LifeLink Logo" width="100" style="border-radius:16px"/>
 
 <h1> LifeLink</h1>
 <h3>Blood Donation Management System</h3>
