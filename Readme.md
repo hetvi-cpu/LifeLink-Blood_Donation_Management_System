@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hetvi-cpu/LifeLink-Blood_Donation_Management_System/main/LIFELINK_FRONTEND/src/assets/logo.png" alt="LifeLink Logo" width="100"/>
 <h1> LifeLink</h1>
 <h3>Blood Donation Management System</h3>
 
