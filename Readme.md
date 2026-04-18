@@ -41,7 +41,7 @@ Key highlights:
 ## ✨ Features
 
 <details>
-<summary><b>👤 For Users & Donors</b></summary>
+<summary><b>👤 For Users (Donors & Receviers)</b></summary>
 <br/>
 
 - Register as a blood donor with health eligibility screening (weight, medical history, cooldown period)
